@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: E./Users/zavadskiy_va/AndroidStudioProjects/flutter_app/first_app/android/app/libs/DataCollection.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/015af46b55d19f639052ec750006277c/transformed/jetified-DataCollection/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/015af46b55d19f639052ec750006277c/transformed/jetified-DataCollection/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/015af46b55d19f639052ec750006277c/transformed/jetified-DataCollection/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
